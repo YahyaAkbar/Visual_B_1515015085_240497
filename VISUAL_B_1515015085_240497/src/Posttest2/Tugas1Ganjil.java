@@ -7,7 +7,7 @@ package PostTest2;
 
 /**
  *
- * @author RizkyKiwa
+ * @author acer
  */
 public class Tugas1Ganjil extends javax.swing.JFrame {
 String jenisK;

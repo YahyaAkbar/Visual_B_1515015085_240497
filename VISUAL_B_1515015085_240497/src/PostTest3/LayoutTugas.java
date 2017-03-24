@@ -164,14 +164,14 @@ public class LayoutTugas extends javax.swing.JFrame {
             .addGroup(infoLayout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel2)
-                .addContainerGap(39, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         infoLayout.setVerticalGroup(
             infoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(infoLayout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel2)
-                .addContainerGap(18, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         tengah.add(info, "card3");
@@ -186,6 +186,7 @@ public class LayoutTugas extends javax.swing.JFrame {
         jLabel9.setIcon(new javax.swing.ImageIcon("D:\\visual\\Jual-Pulsa-Online-24-Jam.png")); // NOI18N
         jLabel9.setText("jLabel9");
 
+        namamu.setBackground(new java.awt.Color(255, 102, 153));
         namamu.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         namamu.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         namamu.setText(" ");
